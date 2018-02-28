@@ -7,7 +7,7 @@ Upgrade
 **Upgrade Steps**
 ::
 
- wget -no-check-certificate http://bit.do/dHwVA -O update.sh
+ wget --no-check-certificate http://bit.do/dHwVA -O update.sh
  chmod +x update.sh
  ./update.sh
 
